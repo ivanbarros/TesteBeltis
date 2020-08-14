@@ -1,0 +1,9 @@
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\bin\Debug\netcoreapp3.1\TecBan.Migrator.deps.json
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\bin\Debug\netcoreapp3.1\TecBan.Migrator.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\bin\Debug\netcoreapp3.1\TecBan.Migrator.pdb
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.csprojAssemblyReference.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.AssemblyInfoInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.AssemblyInfo.cs
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.csproj.CoreCompileInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Migrator\obj\Debug\netcoreapp3.1\TecBan.Migrator.pdb

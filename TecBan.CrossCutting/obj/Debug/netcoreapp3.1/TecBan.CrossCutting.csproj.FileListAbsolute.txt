@@ -1,0 +1,14 @@
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.csprojAssemblyReference.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.AssemblyInfoInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.AssemblyInfo.cs
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.CrossCutting.deps.json
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.CrossCutting.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.CrossCutting.pdb
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.Data.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.Domain.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.Data.pdb
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\bin\Debug\netcoreapp3.1\TecBan.Domain.pdb
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.csproj.CopyComplete
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.CrossCutting\obj\Debug\netcoreapp3.1\TecBan.CrossCutting.pdb

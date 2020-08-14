@@ -1,0 +1,9 @@
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.csprojAssemblyReference.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.AssemblyInfoInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.AssemblyInfo.cs
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.csproj.CoreCompileInputs.cache
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\bin\Debug\netcoreapp3.1\TecBan.Domain.deps.json
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\bin\Debug\netcoreapp3.1\TecBan.Domain.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\bin\Debug\netcoreapp3.1\TecBan.Domain.pdb
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.dll
+D:\Users\caima\source\repos\Testes\TesteBelts_TecBan\TecBanProject\TecBan.Domain\obj\Debug\netcoreapp3.1\TecBan.Domain.pdb
